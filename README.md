@@ -4,10 +4,10 @@ This script is made to work for ROC-RK3328-CC pins, you just have to write the p
 
 	trafficlights.sh 1103
 
-avalaible pin numbers:
-pin number 15 : 1086
-pin number 16 : 1103
-pin number 18 : 1101
-pin number 22 : 1002
+avalaible pin numbers:  
+pin number 15 : 1086  
+pin number 16 : 1103  
+pin number 18 : 1101  
+pin number 22 : 1002  
 
 
