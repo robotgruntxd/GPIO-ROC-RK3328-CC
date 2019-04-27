@@ -8,5 +8,6 @@ avalaible pin numbers:
 pin number 15 : 1086
 pin number 16 : 1103
 pin number 18 : 1101
+pin number 22 : 1002
 
 
